@@ -1,0 +1,2 @@
+//usando  script externo
+
